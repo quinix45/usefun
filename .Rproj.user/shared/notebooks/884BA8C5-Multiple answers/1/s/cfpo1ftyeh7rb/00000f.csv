@@ -1,0 +1,18 @@
+"0","library(dplyr, quietly = TRUE)"
+"2","Warning: package ‘dplyr’ was built under R version 4.2.2"
+"2","
+Attaching package: ‘dplyr’
+
+"
+"2","The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+"
+"2","The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+"
+"0","two_answers4 <- read.csv(""two_answers4.csv"")"
+"0","two_answers9 <- read.csv(""two_answers9.csv"")"

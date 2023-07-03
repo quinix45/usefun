@@ -1,0 +1,10 @@
+Package: usefun
+Type: Package
+Title: Useful functions?
+Version: 0.1.0
+Author: Fabio Setti
+Maintainer: <fsetti@fordham.edu>
+Description: Just some useful statistics functions that I made and want to save
+License: No license
+Encoding: UTF-8
+LazyData: true
