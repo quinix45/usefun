@@ -5,5 +5,9 @@
             "ascending": true
         }
     ],
+<<<<<<< HEAD
     "path": "~/usefun/man"
+=======
+    "path": "~/usefun"
+>>>>>>> 1c1c046300489bd08f15c646e6fddee22a7d6094
 }

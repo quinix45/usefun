@@ -8,7 +8,11 @@
 This function reorder either a vector or the rows of a matrix/data frame according to the values a vector or matrix/data frame with the same dimensions (see example)
 }
 \usage{
+<<<<<<< HEAD
 index_reorder(original, order)
+=======
+index_reorder(x)
+>>>>>>> 1c1c046300489bd08f15c646e6fddee22a7d6094
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
@@ -19,7 +23,11 @@ index_reorder(original, order)
 }
 
 \value{
+<<<<<<< HEAD
 A matrix with same dimensions as the "orignal" argument but with rows rearranged according to the "order" object
+=======
+A matrix containing with same dimensions as the "orignal" argument but with rows rearranged according to the "order object"
+>>>>>>> 1c1c046300489bd08f15c646e6fddee22a7d6094
 }
 \references{
 %% ~put references to the literature/web site here ~

@@ -1,6 +1,11 @@
 {
     "source_window_id": "",
     "Source": "Source",
+<<<<<<< HEAD
     "cursorPosition": "21,112",
     "scrollLine": "22"
+=======
+    "cursorPosition": "4,33",
+    "scrollLine": "0"
+>>>>>>> 1c1c046300489bd08f15c646e6fddee22a7d6094
 }
